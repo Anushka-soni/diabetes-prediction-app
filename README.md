@@ -21,3 +21,5 @@ This app uses two machine learning models — Random Forest and Gradient Boostin
 - scikit_learn
 - joblib 
 - statsmodels
+
+### Predictions may differ due to differences in model logic.
